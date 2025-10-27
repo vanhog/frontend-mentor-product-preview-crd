@@ -91,7 +91,7 @@ a {
     background-color: var(--white);
     border-radius: 0.5rem;
     box-sizing: border-box;
-    margin-block-start: 1rem;
+    margin-block-start: 0rem;
     display: flex;
     flex-direction: column;
 }
