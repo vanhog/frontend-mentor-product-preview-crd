@@ -172,7 +172,7 @@ a {
 
     .centered-box {
         width: 37.5rem;
-        height: 28.5rem;
+        height: 28rem;
         flex-direction: row;
     }
 
@@ -184,7 +184,7 @@ a {
     .bigimage {
         display: block;
         width: 18.75rem;
-        height: 28.5rem;
+        height: 28rem;
     }
 
     .smallimage {
@@ -196,7 +196,7 @@ a {
     }
 
     .roof {
-        margin-block-start: 1.4rem;
+        margin-block-start: 2.5rem;
     }
 
     .price {
