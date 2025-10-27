@@ -93,7 +93,7 @@ a {
     background-color: var(--white);
     border-radius: 0.5rem;
     box-sizing: border-box;
-    margin-block-start: 3rem;
+    margin-block-start: 1rem;
     display: flex;
     flex-direction: column;
 }
